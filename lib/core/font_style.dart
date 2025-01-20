@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class TextStyles {
   static const TextStyle forgotPasswordText = TextStyle(
     color: Color.fromRGBO(57, 57, 57, 1),
-    fontFamily: 'Open Sans-italic',
+    fontFamily: 'Open Sans',
     fontSize: 20,
     fontWeight: FontWeight.normal,
     height: 1,
